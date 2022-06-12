@@ -1,0 +1,5 @@
+[
+  { "label": "Personal information", "url": "/contact" },
+  { "label": "Means of payment", "url": "/delivery" },
+  { "label": "Termination", "url": "/confirm" }
+]

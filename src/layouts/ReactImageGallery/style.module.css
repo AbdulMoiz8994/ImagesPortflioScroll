@@ -1,0 +1,13 @@
+.thumbnail {
+  width: 100%;
+  height: 50%;
+  border: none
+}
+
+.image {
+  width: 100%;
+  height: 50%;
+}
+.image-gallery-left-nav {
+  size: 6px;
+}

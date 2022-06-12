@@ -1,0 +1,522 @@
+[
+  {
+      "id": 36,
+      "name": "Διαθεσιμότητα",
+      "slug": "pa_availability",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": false,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/36"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 38,
+      "name": "Εταιρεία",
+      "slug": "pa_brand",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": false,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/38"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 9,
+      "name": "Τύπος καλωδίου",
+      "slug": "pa_cabletype",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/9"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 15,
+      "name": "Κατηγορία μοτερ",
+      "slug": "pa_catmoter",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/15"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 2,
+      "name": "Χρώμα",
+      "slug": "pa_color",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/2"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 25,
+      "name": "Εγγύηση",
+      "slug": "pa_eggiisi",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/25"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 26,
+      "name": "Είδος μοτερ ρολου",
+      "slug": "pa_eidosmoterrolou",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/26"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 29,
+      "name": "Φακός",
+      "slug": "pa_fakos",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/29"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 17,
+      "name": "Κιτ",
+      "slug": "pa_kit",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/17"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 3,
+      "name": "Μάρκα Κινητού",
+      "slug": "pa_markakinitou",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/3"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 30,
+      "name": "Μέγιστη Οριζόντια γωνία",
+      "slug": "pa_maxhorizontalangle",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/30"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 24,
+      "name": "Μέγιστο βάρος πόρτας",
+      "slug": "pa_megistovarosportas",
+      "type": "select",
+      "order_by": "name_num",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/24"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 35,
+      "name": "Μέτρα Κονταριού",
+      "slug": "pa_metra-kontariou",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": false,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/35"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 1,
+      "name": "Μοντέλο",
+      "slug": "pa_model",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/1"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 21,
+      "name": "Χρήση",
+      "slug": "pa_moterxrisi",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/21"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 33,
+      "name": "ONVIF",
+      "slug": "pa_onvif",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/33"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 32,
+      "name": "Plug and Play",
+      "slug": "pa_p2p",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/32"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 22,
+      "name": "Τάση",
+      "slug": "pa_tasimoter",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/22"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 23,
+      "name": "Ταχύτητα λειτουργίας",
+      "slug": "pa_taxititaleitourgias",
+      "type": "select",
+      "order_by": "name_num",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/23"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 28,
+      "name": "Τύπος Κάμερας",
+      "slug": "pa_tiposkameras",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/28"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 27,
+      "name": "Τύπος Σύνδεσης",
+      "slug": "pa_tipossindesis",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/27"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 10,
+      "name": "Τοποθέτηση",
+      "slug": "pa_topothetisi",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/10"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 14,
+      "name": "Είδος ανοιγόμενης πόρτας",
+      "slug": "pa_typeopendoor",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/14"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 34,
+      "name": "Τύπος Κονταριού",
+      "slug": "pa_typos-kontariou",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": false,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/34"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 31,
+      "name": "Ζουμ",
+      "slug": "pa_zoom",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": true,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/31"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  },
+  {
+      "id": 37,
+      "name": "Κανάλια",
+      "slug": "pa_κανάλια",
+      "type": "select",
+      "order_by": "menu_order",
+      "has_archives": false,
+      "_links": {
+          "self": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes/37"
+              }
+          ],
+          "collection": [
+              {
+                  "href": "https://sfkshop.gr/wp-json/wc/v3/products/attributes"
+              }
+          ]
+      }
+  }
+]
